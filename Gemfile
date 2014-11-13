@@ -17,6 +17,7 @@ gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
+gem 'rails_layout'
 gem 'zurb-foundation'
 gem 'binding_of_caller'
 group :development do
